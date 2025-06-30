@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🎓 Engineering @ SRM Chennai  
 - 🧠 Working on AI, ML, and Cool IoT Projects  
-- 📚 Bookstore owner & curious lifelong learner  
+- 📚 Curious lifelong learner  
 - ⚡ Fun Fact: Maggi is my comfort food 😋
 
 ## 💻 Tech Stack
