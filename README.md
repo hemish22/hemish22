@@ -13,8 +13,14 @@
 - ⚡ Fun Fact: Maggi is my comfort food 😋
 
 ## 💻 Tech Stack
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![CUDA](https://img.shields.io/badge/-CUDA-333333?style=flat&logo=nvidia)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
