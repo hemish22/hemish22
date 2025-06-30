@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hemish</h1>
 <h3 align="center">A tech enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemish22&label=Profile%20views&color=0e75b6&style=flat" alt="hemish22" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemish22" alt="hemish22" /></a> </p>
+
 - 🌱 I’m currently learning **ML(OPENCV, NLP), DSA**
 
 - 📫 How to reach me **hemishjain22@gmail.com**
