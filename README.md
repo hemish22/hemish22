@@ -32,12 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemish123&theme=github-dark-blue" width="48%"/>
 </p>
 
-## 📂 Featured Projects
-- 🎯 [Suicidal Text Classifier](https://github.com/hemish123/suicidal-text-detector) — NLP + DistilBERT web app
-- 🌡️ [IoT Temperature Fan Controller](https://github.com/hemish123/iot-fan-controller) — Arduino + DHT11
-- 📊 [Mental Health Detection ML](https://github.com/hemish123/mental-health-nlp)
-
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/hemish-jain-b64075213/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/hemish__22)
