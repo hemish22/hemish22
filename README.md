@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hemish</h1>
-<h3 align="center">A passionate AI enthusiast from India</h3>
+<h3 align="center">A tech enthusiast from India</h3>
+
+- 🌱 I’m currently learning **ML(OPENCV, NLP), DSA**
+
+- 📫 How to reach me **hemishjain22@gmail.com**
+
+- ⚡ Fun fact **I am a tech enthusiast and want to learn everything about computers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
