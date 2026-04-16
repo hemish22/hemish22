@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML(OPENCV, NLP), DSA**
 
-- 📫 How to reach me **hemishjain22@gmail.com**
+- 📫 Reach me at **hemishjain22@gmail.com**
 
 - ⚡ Fun fact **I am a tech enthusiast and want to learn everything about computers.**
 
