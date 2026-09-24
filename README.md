@@ -1,5 +1,7 @@
 # Hemish Jain
 
+<img src="./assets/NvL.gif" width="100%" height="100px" alt="banner" style="object-fit:cover;"/>
+
 > I build ML systems that hold up on messy, real-world data — documents, video, and text — and benchmark them honestly instead of trusting a demo.
 
 🎓 B.Tech CSE — SRM Institute of Science and Technology, KTR · CGPA 8.42  
