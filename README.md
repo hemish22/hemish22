@@ -35,6 +35,7 @@
 | :--- | :--- | :--- |
 | **Hiree** | Built a multi-signal hiring platform that parses resumes and verifies claimed skills against live GitHub and LeetCode profiles, generating AI-powered job-fit scores and hiring verdicts via Groq LLMs with a Gemini fallback. | ext.js, React, FastAPI, Scikit-learn, Sentence-Transformers, Groq LLM, PostgreSQL  |
 | **Savify** | Built a productivity tool that ingests YouTube reels, videos, and blog URLs, extracting transcripts directly or transcribing audio via speech-to-text when captions are unavailable. | Python, Gemini API, Speech-to-Text, SQLite  |
+| **LinguaLens** | Snap or drop a medicine label, a government form, a signboard — and get a plain-language explanation tailored to you, with audio and follow-up questions. | Python, Groq API, Text-to-Speech  |
 
 ---
 
