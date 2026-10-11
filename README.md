@@ -46,12 +46,12 @@
 | :--- | :--- | :--- |
 | **Multimodal Anemia Detection Using Convolution Neural Network and Ensemble Learning** | Stacked ensemble over multiple modalities for non-invasive anemia screening | ✅ Published — CVIP 2025 |
 | **Suicidal Text Detection Using Machine Learning and Large Language Model** | NLP approach to classifying distress and emotion in text | ✅ Published — ICRAIS 2025 |
-| **Robustness of Lightweight Retrieval on Metadata-Stripped Medical Images** | A study on robust retrieval of metadata-stripped medical images using lightweight and deep learning approaches under various image degradations. | 📝 Paper writting |
-| **Decoding Group Affect: A Systematic Review and Research Agenda** | A study on group-level affect recognition from multi-person scenes using lightweight handcrafted and deep learning approaches under real-world degradations such as occlusion, crowding, and dynamic group dynamics. | 📝 Paper writting |
-| **Water, Not Watts: Re-examining the Water Footprint of Liquid-Cooled AI Data Centres in India** | A study on the true water footprint of liquid-cooled AI data centres in India using a three-axis taxonomy and disclosure-completeness formalization under a coal-intensive grid and warm-humid, water-stressed climate. | 📝 Paper done |
-| **Battery-Evaluation** | Remaining-useful-life prediction on NASA PCoE and randomized-usage Li-ion battery datasets, using a thermoelastic-stress feature stage validated against an independent finite-difference solver. | 🔬 In progress |
-| **VLM benchmark on Indian government forms** | Open-source VLMs (Qwen2.5-VL, MinerU2, DeepSeek-OCR, GLM-4.5V) on checkbox-state detection and multi-column table alignment | 🔬 In progress |
-| **Architecture and Precision Leakage in Quantised Edge AI** | Neural network architecture is recoverable from software-accessible timing, power and thermal side channels on embedded AI accelerators, and the degree of leakage is materially affected by the quantisation precision at which the model is deployed. | 🔬 In progress |
+| **Robustness of Lightweight Retrieval on Metadata-Stripped Medical Images** |  | 📝 Paper writting |
+| **Decoding Group Affect: A Systematic Review and Research Agenda** |  | 📝 Paper writting |
+| **Water, Not Watts: Re-examining the Water Footprint of Liquid-Cooled AI Data Centres in India** |  | 📝 Paper done |
+| **Battery-Evaluation** |  | 🔬 In progress |
+| **VLM benchmark on Indian government forms** |  | 🔬 In progress |
+| **Architecture and Precision Leakage in Quantised Edge AI** |  | 🔬 In progress |
 
 ---
 
